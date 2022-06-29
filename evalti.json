@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"evalti"},
+{"type":"table","name":"roles","database":"evalti","data":
+[
+{"rol_id":"1","nombre":"Marcos Hernandez Juares"},
+{"rol_id":"20","nombre":"Juan Perez Molina"},
+{"rol_id":"21","nombre":"Maria Castro Melgar"},
+{"rol_id":"22","nombre":"Jorge Pereida Gonzales"}
+]
+}
+,{"type":"table","name":"usuarios","database":"evalti","data":
+[
+{"usuario_Id":"3","nombre":"Marcos","apellido":"Hernandez Juares ","telefono":"12345678","direccion":"km 12","correo_electronico":"Mhj@hotmail.com","fecha_nacimiento":"1990-06-20","rol_id":"1","activo":"1","contrasenia":"marcos123"},
+{"usuario_Id":"5","nombre":"Juan","apellido":"Perez Molina","telefono":"87654321","direccion":"km 14","correo_electronico":"Jpm@gmail.com","fecha_nacimiento":"1989-02-04","rol_id":"20","activo":"0","contrasenia":"juan123"},
+{"usuario_Id":"6","nombre":"Maria","apellido":"Castro Melgar","telefono":"4681216","direccion":"jalapa","correo_electronico":"mmelgar@yahoo.com","fecha_nacimiento":"2002-08-20","rol_id":"21","activo":"1","contrasenia":"melgar432"},
+{"usuario_Id":"7","nombre":"Jorge","apellido":"Pereida Gonzales","telefono":"24681012","direccion":"zacapa","correo_electronico":"gjorge@gmail.com","fecha_nacimiento":"1999-05-10","rol_id":"22","activo":"1","contrasenia":"zacapa420"}
+]
+}
+]
